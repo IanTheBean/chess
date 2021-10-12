@@ -1,0 +1,22 @@
+chessboard:
+  Array(ints)  Size 64
+  0 empty
+  1 black pawn
+  2 white pawn
+  3 black rook
+  4 white rook
+  5 black knight
+  6 white knight
+  7 black bishop
+  8 white bishop
+  9 black queen
+  10 white queen
+  11 black king
+  12 white king
+
+piece:
+  contains a list of possible moves
+  has move method which checks if you can move and moves
+  C3 bishop
+  
+  
